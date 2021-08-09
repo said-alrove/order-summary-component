@@ -62,14 +62,14 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-size: 1.6rem;
   background-color: #e6ecff;
-  background-image: url("/assets/svg/pattern-background-mobile.svg");
+  background-image: url("https://said-alrove.github.io/order-summary-component/assets/svg/pattern-background-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media (min-width: 768px) {
   body {
     background-color: #e6ecff;
-    background-image: url("/assets/svg/pattern-background-desktop.svg");
+    background-image: url("https://said-alrove.github.io/order-summary-component/assets/svg/pattern-background-desktop.svg");
     background-size: cover;
     background-repeat: no-repeat;
   }
