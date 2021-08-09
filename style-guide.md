@@ -1,3 +1,5 @@
+# Front-end Style Guide
+
 ## Layout
 
 The designs were created to the following widths:
@@ -9,14 +11,20 @@ The designs were created to the following widths:
 
 ### Primary
 
-- DarkCyan: hsl(185, 75%, 39%);
-- DarkGrayish: hsl(227, 10%, 46%);
+- Pale blue: hsl(225, 100%, 94%)
+- Bright blue: hsl(245, 75%, 52%)
+
+### Neutral
+
+- Very pale blue: hsl(225, 100%, 98%)
+- Desaturated blue: hsl(224, 23%, 55%)
+- Dark blue: hsl(223, 47%, 23%)
 
 ## Typography
 
-- Font size (name and stats): 18px;
+- Font size (paragraph): 16px
 
 ### Font
 
-- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans);
-- Weights: 400, 700;
+- Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
+- Weights: 500, 700, 900

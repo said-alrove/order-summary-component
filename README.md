@@ -1,6 +1,6 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - Order summary component solution
 
-This is a solution to the [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-V_W91T3Q5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-71-patternsass-ahZRW2gVy). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Screenshot
 
@@ -8,8 +8,8 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 
 ## Links
 
-- [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-and-position-A_OgSM9LR)
-- [Github Live](https://said-alrove.github.io/profile-card-component/)
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-71-patternsass-ahZRW2gVy)
+- [Github Live](https://said-alrove.github.io/order-summary-component/)
 
 ## Author
 
