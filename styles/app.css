@@ -150,10 +150,12 @@ ul {
   align-items: center;
 }
 .plan__info {
+  font-size: 1.3rem;
+}
+.plan__info-list {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  font-size: 1.3rem;
 }
 .plan__info-time {
   font-weight: 900;
