@@ -16,7 +16,7 @@
                 font-size: 1.3rem;
 
                 &-list {
-                    @include less.flexbox($dir: column, $gap: 1rem);
+                    @include less.flexbox($dir: column, $gap: .5rem);
                 }
         
                 &-time {
