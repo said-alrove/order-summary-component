@@ -11,7 +11,7 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-71-patternsass-ahZRW2gVy)
-- [Netlify](https://osc-128199.netlify.app/)
+- [Netlify](https://osc-49a8yt.netlify.app/)
 
 ## Author
 
