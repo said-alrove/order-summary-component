@@ -2,6 +2,8 @@
 
 This is a solution to the [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-71-patternsass-ahZRW2gVy). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+> **Note:** in order to avoid large names, the URL of this project is an abbreviation of the name of this repository (order-summary-card -> osc) with its unique ID (for less problems with names already taken).
+
 ## Screenshot
 
 ![](design/screenshot.png)
@@ -9,7 +11,7 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-71-patternsass-ahZRW2gVy)
-- [Github Live](https://said-alrove.github.io/order-summary-component/)
+- [Netlify](https://tcc-121900.netlify.app/)
 
 ## Author
 
